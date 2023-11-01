@@ -21,7 +21,6 @@
 		<a href="index.jsp">Início</a> &nbsp; &nbsp; <a href="CadAdvogado.jsp">CAdastro
 			de Advogado</a> &nbsp; &nbsp; <a href="CadCliente.jsp">Cadastro de
 			Cliente</a>
-
 	</nav>
 
 
@@ -31,8 +30,6 @@
 					Advogado</button></a>
 		</div>
 	</div>
-
-
 
 	<div class="container">
 
